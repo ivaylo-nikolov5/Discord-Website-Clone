@@ -1,0 +1,43 @@
+.third-section {
+    width: 100%;
+    height: 680px;
+    background-color: rgb(241, 241, 241);
+}
+
+.third-section-content {
+    display: grid;
+    grid-template-columns: 35% 65%;
+
+}
+
+.third-section-description {
+    margin-top: 150px;
+    margin-left: 300px;
+    
+}
+
+.third-section-title {
+    line-height: 1.15;
+    font-size: 48px;
+    font-weight: bolder;
+    width: 400px;
+    color: #23272a;
+    font-family: gg sans,Noto Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.third-section-addition {
+    margin-top: 24px;
+    display: block;
+    width: 400px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    color: rgb(78, 78, 78);
+}
+
+.third-section-img {
+    width: 750px;
+    margin-top: 110px;
+    margin-left: 150px;
+}
+
